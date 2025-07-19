@@ -1,60 +1,28 @@
-📊 Sales Performance Dashboard
+📊 # 🧮 Freedom Analytics Dashboard
 
-This Excel dashboard provides a clear, data-driven view of monthly sales performance. It was designed to help business owners and decision-makers quickly understand key sales metrics and make informed choices.
+This Excel dashboard provides a comprehensive **Year-over-Year sales performance analysis** for Freedom Co., focusing on key financial metrics across multiple regions and product categories.
 
+## 📊 Key Features
+- **Year-over-Year (YoY) Comparison** of Revenue, Orders, and Profit
+- Regional performance breakdown (North, South, East, West)
+- Product category trends (Electronics, Fashion, Home, etc.)
+- Mini trendlines (sparklines) for visual tracking
+- Clean dark-theme layout for executive-level presentation
 
----
+## 🧠 Business Insights
+- Track which regions are growing faster year over year
+- Identify underperforming categories needing attention
+- Monitor the company’s overall health across time
 
-✅ Key Features
+## 🛠 Tools Used
+- Microsoft Excel
+- PivotTables, Charts, and Slicers
+- Conditional Formatting & Custom Themes
 
-Monthly Sales Trends: Track total quantity sold each month.
-
-Profit & Cost Analysis: Compare revenue, cost of goods sold (COGS), and profits across time.
-
-Regional Sales Breakdown: Visualize performance across different areas or zones.
-
-Product-Wise Performance: Identify top-selling products and those needing attention.
-
-
-
----
-
-🛠️ Tools Used
-
-Microsoft Excel: For data cleaning, PivotTables, and dashboard design
-
-Power Query: To automate data refresh and transformation
-
-Data Source: Simulated or real-world business sales data (no sensitive data shared)
-
-
+## 📁 Files
+- `freedom_dashboard.xlsx` – Interactive dashboard file
+- `freedom_raw_data.csv` – Cleaned dataset used in the analysis
 
 ---
 
-💡 Business Insights Enabled
-
-Which region drives the highest sales?
-
-What products bring in the most profit?
-
-How consistent are sales over the months?
-
-Where should business efforts be focused to grow revenue?
-
-
-
----
-
-📁 Files Included
-
-sales_dashboard.xlsx – The full Excel file with data, PivotTables, and visual dashboard
-
-README.md – This documentation file
-
-
-
----
-
-🚀 About the Creator
-
-Built by Mubarak, a data analyst with a strong civil engineering background, now solving business problems using Excel, SQL.
+> This project demonstrates real-world business reporting for retail executives, ideal for performance review or quarterly business reporting.
